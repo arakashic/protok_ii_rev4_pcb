@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name dk_Tactile-Switches)(type Legacy)(uri ${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_Tactile-Switches.lib)(options "")(descr ""))
+  (lib (name my_lib)(type Legacy)(uri ${KIPRJMOD}/library/my_lib.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/library/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name proton_c)(type Legacy)(uri ${KIPRJMOD}/proton_c/proton_c.lib)(options "")(descr ""))
+  (lib (name dk_Logic-Gates-and-Inverters)(type Legacy)(uri ${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_Logic-Gates-and-Inverters.lib)(options "")(descr ""))
+  (lib (name dk_Logic-Signal-Switches-Multiplexers-Decoders)(type Legacy)(uri ${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_Logic-Signal-Switches-Multiplexers-Decoders.lib)(options "")(descr ""))
+  (lib (name CD74HC238M)(type Legacy)(uri ${KIPRJMOD}/library/74HC238/CD74HC238M.lib)(options "")(descr ""))
+)

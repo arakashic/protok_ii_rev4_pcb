@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 2_axis_thumbstick
+#
+DEF 2_axis_thumbstick Joystick 0 40 Y Y 1 F N
+F0 "Joystick" 0 400 50 H V C CNN
+F1 "2_axis_thumbstick" 0 300 50 H V C CNN
+F2 "" 0 400 50 H I C CNN
+F3 "" 0 400 50 H I C CNN
+DRAW
+S -200 -200 200 200 0 1 0 N
+X XA 1 -100 -300 100 U 50 50 1 1 P
+X XC 2 0 -300 100 U 50 50 1 1 P
+X XB 3 100 -300 100 U 50 50 1 1 P
+X YA 4 300 -100 100 L 50 50 1 1 P
+X YC 5 300 0 100 L 50 50 1 1 P
+X YB 6 300 100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

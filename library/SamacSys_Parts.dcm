@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP EC11EBB24C03
+D Alps 15 Pulse Incremental Mechanical Rotary Encoder with a 3.5 (Inner Shaft) mm, 6 (Outer Shaft) mm
+K
+F https://componentsearchengine.com/Datasheets/2/EC11EBB24C03.pdf
+$ENDCMP
+#
+$CMP EC21A1540401
+D Encoders 5 Volts Through Hole
+K
+F 
+$ENDCMP
+#
+$CMP JS5208
+D E-SWITCH - JS5208 - SWITCH, NAVIGATION, 5 POSITION, 20mA, SMD
+K
+F https://www.e-switch.com/system/asset/product_line/data_sheet/23/JS5208.pdf
+$ENDCMP
+#
+#End Doc Library

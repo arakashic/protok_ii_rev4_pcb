@@ -1,0 +1,12 @@
+[submodule "digikey-partner-kicad-library"]
+	path = digikey-partner-kicad-library
+	url = https://github.com/Digi-Key/digikey-partner-kicad-library
+[submodule "digikey-kicad-library"]
+	path = digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library
+[submodule "MX_Alps_Hybrid"]
+	path = MX_Alps_Hybrid
+	url = https://github.com/arakashic/MX_Alps_Hybrid
+[submodule "random-keyboard-parts.pretty"]
+	path = random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty

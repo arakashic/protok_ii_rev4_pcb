@@ -1,0 +1,106 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.37/8/4/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model EC11EBB24C03
+#/489619/346373/2.47/10/4/Undefined or Miscellaneous
+DEF EC11EBB24C03 U 0 30 Y Y 1 F N
+F0 "U" 850 300 50 H V L CNN
+F1 "EC11EBB24C03" 850 200 50 H V L CNN
+F2 "EC11EBB24C03" 850 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/EC11EBB24C03.pdf" 850 0 50 H I L CNN
+F4 "Alps 15 Pulse Incremental Mechanical Rotary Encoder with a 3.5 (Inner Shaft) mm, 6 (Outer Shaft) mm" 850 -100 50 H I L CNN "Description"
+F5 "33" 850 -200 50 H I L CNN "Height"
+F6 "688-EC11EBB24C03" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ALPS/EC11EBB24C03?qs=m0BA540hBPc5hAJ6UyzIrA%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ALPS" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "EC11EBB24C03" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X A1 A1 0 0 200 R 50 50 0 0 P
+X A2 A2 0 -100 200 R 50 50 0 0 P
+X B1 B1 0 -200 200 R 50 50 0 0 P
+X B2 B2 0 -300 200 R 50 50 0 0 P
+X C1 C1 0 -400 200 R 50 50 0 0 P
+X C2 C2 1000 0 200 L 50 50 0 0 P
+X D1 D1 1000 -100 200 L 50 50 0 0 P
+X E1 E1 1000 -200 200 L 50 50 0 0 P
+X MH1 MH1 1000 -300 200 L 50 50 0 0 P
+X MH2 MH2 1000 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model EC21A1540401
+#/1048854/346373/2.47/5/4/Undefined or Miscellaneous
+DEF EC21A1540401 U 0 30 Y Y 1 F N
+F0 "U" 650 500 50 H V L CNN
+F1 "EC21A1540401" 650 400 50 H V L CNN
+F2 "EC21A1540401" 650 300 50 H I L CNN
+F3 "" 650 200 50 H I L CNN
+F4 "Encoders 5 Volts Through Hole" 650 100 50 H I L CNN "Description"
+F5 "9" 650 0 50 H I L CNN "Height"
+F6 "688-EC21A1540401" 650 -100 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ALPS/EC21A1540401?qs=YMSFtX0bdJDqJ3PNi4kFEA%3D%3D" 650 -200 50 H I L CNN "Mouser Price/Stock"
+F8 "ALPS" 650 -300 50 H I L CNN "Manufacturer_Name"
+F9 "EC21A1540401" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 300 -500 200 U 50 50 0 0 P
+X 2 2 400 -500 200 U 50 50 0 0 P
+X 3 3 400 500 200 D 50 50 0 0 P
+X 4 4 0 0 200 R 50 50 0 0 P
+X 5 5 800 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 300 600 300 600 -300 200 -300 200 300 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model JS5208
+#/231263/346373/2.47/6/4/Switch
+DEF JS5208 S 0 30 Y Y 1 F N
+F0 "S" 650 300 50 H V L CNN
+F1 "JS5208" 650 200 50 H V L CNN
+F2 "JS5208" 650 100 50 H I L CNN
+F3 "https://www.e-switch.com/system/asset/product_line/data_sheet/23/JS5208.pdf" 650 0 50 H I L CNN
+F4 "E-SWITCH - JS5208 - SWITCH, NAVIGATION, 5 POSITION, 20mA, SMD" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "612-JS5208" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/E-Switch/JS5208?qs=f57gQzlyLiqOzqNCAUlPQg%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "E-Switch" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "JS5208" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 800 0 200 L 50 50 0 0 P
+X 5 5 800 -100 200 L 50 50 0 0 P
+X 6 6 800 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
