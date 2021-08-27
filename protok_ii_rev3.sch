@@ -230,6 +230,7 @@ F 0 "D1" H 2450 4467 50  0000 C CNN
 F 1 "1N4148" H 2450 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 2450 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    2450 4250
 	1    0    0    -1  
 $EndComp
@@ -263,6 +264,7 @@ F 0 "D15" H 1350 5017 50  0000 C CNN
 F 1 "1N4148" H 1350 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1350 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1350 4800
 	1    0    0    -1  
 $EndComp
@@ -274,6 +276,7 @@ F 0 "D31" H 1350 5567 50  0000 C CNN
 F 1 "1N4148" H 1350 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1350 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1350 5350
 	1    0    0    -1  
 $EndComp
@@ -285,6 +288,7 @@ F 0 "D46" H 1350 6117 50  0000 C CNN
 F 1 "1N4148" H 1350 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1350 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1350 5900
 	1    0    0    -1  
 $EndComp
@@ -296,6 +300,7 @@ F 0 "D47" H 1900 6117 50  0000 C CNN
 F 1 "1N4148" H 1900 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1900 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1900 5900
 	1    0    0    -1  
 $EndComp
@@ -307,6 +312,7 @@ F 0 "D32" H 1900 5567 50  0000 C CNN
 F 1 "1N4148" H 1900 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1900 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1900 5350
 	1    0    0    -1  
 $EndComp
@@ -318,6 +324,7 @@ F 0 "D16" H 1900 5017 50  0000 C CNN
 F 1 "1N4148" H 1900 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1900 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1900 4800
 	1    0    0    -1  
 $EndComp
@@ -329,6 +336,7 @@ F 0 "D17" H 2450 5017 50  0000 C CNN
 F 1 "1N4148" H 2450 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 2450 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    2450 4800
 	1    0    0    -1  
 $EndComp
@@ -340,6 +348,7 @@ F 0 "D18" H 3000 5017 50  0000 C CNN
 F 1 "1N4148" H 3000 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3000 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3000 4800
 	1    0    0    -1  
 $EndComp
@@ -351,6 +360,7 @@ F 0 "D19" H 3550 5017 50  0000 C CNN
 F 1 "1N4148" H 3550 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3550 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3550 4800
 	1    0    0    -1  
 $EndComp
@@ -362,6 +372,7 @@ F 0 "D20" H 4100 5017 50  0000 C CNN
 F 1 "1N4148" H 4100 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4100 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4100 4800
 	1    0    0    -1  
 $EndComp
@@ -373,6 +384,7 @@ F 0 "D21" H 4650 5017 50  0000 C CNN
 F 1 "1N4148" H 4650 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4650 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4650 4800
 	1    0    0    -1  
 $EndComp
@@ -384,6 +396,7 @@ F 0 "D22" H 5200 5017 50  0000 C CNN
 F 1 "1N4148" H 5200 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5200 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5200 4800
 	1    0    0    -1  
 $EndComp
@@ -395,6 +408,7 @@ F 0 "D23" H 5750 5017 50  0000 C CNN
 F 1 "1N4148" H 5750 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5750 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5750 4800
 	1    0    0    -1  
 $EndComp
@@ -406,6 +420,7 @@ F 0 "D24" H 6300 5017 50  0000 C CNN
 F 1 "1N4148" H 6300 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6300 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6300 4800
 	1    0    0    -1  
 $EndComp
@@ -417,6 +432,7 @@ F 0 "D25" H 6850 5017 50  0000 C CNN
 F 1 "1N4148" H 6850 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6850 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6850 4800
 	1    0    0    -1  
 $EndComp
@@ -428,6 +444,7 @@ F 0 "D26" H 7400 5017 50  0000 C CNN
 F 1 "1N4148" H 7400 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7400 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7400 4800
 	1    0    0    -1  
 $EndComp
@@ -439,6 +456,7 @@ F 0 "D27" H 7950 5017 50  0000 C CNN
 F 1 "1N4148" H 7950 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7950 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7950 4800
 	1    0    0    -1  
 $EndComp
@@ -450,6 +468,7 @@ F 0 "D28" H 8500 5017 50  0000 C CNN
 F 1 "1N4148" H 8500 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 8500 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    8500 4800
 	1    0    0    -1  
 $EndComp
@@ -461,6 +480,7 @@ F 0 "D29" H 9050 5017 50  0000 C CNN
 F 1 "1N4148" H 9050 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9050 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9050 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9050 4800
 	1    0    0    -1  
 $EndComp
@@ -472,6 +492,7 @@ F 0 "D30" H 9600 5017 50  0000 C CNN
 F 1 "1N4148" H 9600 4926 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9600 4625 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 4800 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9600 4800
 	1    0    0    -1  
 $EndComp
@@ -483,6 +504,7 @@ F 0 "D14" H 9600 4467 50  0000 C CNN
 F 1 "1N4148" H 9600 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9600 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9600 4250
 	1    0    0    -1  
 $EndComp
@@ -494,6 +516,7 @@ F 0 "D13" H 9050 4467 50  0000 C CNN
 F 1 "1N4148" H 9050 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9050 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9050 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9050 4250
 	1    0    0    -1  
 $EndComp
@@ -505,6 +528,7 @@ F 0 "D12" H 8500 4467 50  0000 C CNN
 F 1 "1N4148" H 8500 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 8500 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    8500 4250
 	1    0    0    -1  
 $EndComp
@@ -516,6 +540,7 @@ F 0 "D11" H 7950 4467 50  0000 C CNN
 F 1 "1N4148" H 7950 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7950 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7950 4250
 	1    0    0    -1  
 $EndComp
@@ -527,6 +552,7 @@ F 0 "D10" H 7400 4467 50  0000 C CNN
 F 1 "1N4148" H 7400 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7400 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7400 4250
 	1    0    0    -1  
 $EndComp
@@ -538,6 +564,7 @@ F 0 "D9" H 6850 4467 50  0000 C CNN
 F 1 "1N4148" H 6850 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6850 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6850 4250
 	1    0    0    -1  
 $EndComp
@@ -549,6 +576,7 @@ F 0 "D8" H 6300 4467 50  0000 C CNN
 F 1 "1N4148" H 6300 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6300 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6300 4250
 	1    0    0    -1  
 $EndComp
@@ -560,6 +588,7 @@ F 0 "D7" H 5750 4467 50  0000 C CNN
 F 1 "1N4148" H 5750 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5750 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5750 4250
 	1    0    0    -1  
 $EndComp
@@ -571,6 +600,7 @@ F 0 "D6" H 5200 4467 50  0000 C CNN
 F 1 "1N4148" H 5200 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5200 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5200 4250
 	1    0    0    -1  
 $EndComp
@@ -582,6 +612,7 @@ F 0 "D5" H 4650 4467 50  0000 C CNN
 F 1 "1N4148" H 4650 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4650 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4650 4250
 	1    0    0    -1  
 $EndComp
@@ -593,6 +624,7 @@ F 0 "D4" H 4100 4467 50  0000 C CNN
 F 1 "1N4148" H 4100 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4100 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4100 4250
 	1    0    0    -1  
 $EndComp
@@ -604,6 +636,7 @@ F 0 "D3" H 3550 4467 50  0000 C CNN
 F 1 "1N4148" H 3550 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3550 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3550 4250
 	1    0    0    -1  
 $EndComp
@@ -615,6 +648,7 @@ F 0 "D2" H 3000 4467 50  0000 C CNN
 F 1 "1N4148" H 3000 4376 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3000 4075 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 4250 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3000 4250
 	1    0    0    -1  
 $EndComp
@@ -912,6 +946,7 @@ F 0 "D33" H 3000 5567 50  0000 C CNN
 F 1 "1N4148" H 3000 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3000 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3000 5350
 	1    0    0    -1  
 $EndComp
@@ -923,6 +958,7 @@ F 0 "D34" H 3550 5567 50  0000 C CNN
 F 1 "1N4148" H 3550 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3550 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3550 5350
 	1    0    0    -1  
 $EndComp
@@ -934,6 +970,7 @@ F 0 "D35" H 4100 5567 50  0000 C CNN
 F 1 "1N4148" H 4100 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4100 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4100 5350
 	1    0    0    -1  
 $EndComp
@@ -945,6 +982,7 @@ F 0 "D36" H 4650 5567 50  0000 C CNN
 F 1 "1N4148" H 4650 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4650 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4650 5350
 	1    0    0    -1  
 $EndComp
@@ -956,6 +994,7 @@ F 0 "D37" H 5200 5567 50  0000 C CNN
 F 1 "1N4148" H 5200 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5200 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5200 5350
 	1    0    0    -1  
 $EndComp
@@ -967,6 +1006,7 @@ F 0 "D38" H 5750 5567 50  0000 C CNN
 F 1 "1N4148" H 5750 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5750 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5750 5350
 	1    0    0    -1  
 $EndComp
@@ -978,6 +1018,7 @@ F 0 "D39" H 6300 5567 50  0000 C CNN
 F 1 "1N4148" H 6300 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6300 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6300 5350
 	1    0    0    -1  
 $EndComp
@@ -989,6 +1030,7 @@ F 0 "D40" H 6850 5567 50  0000 C CNN
 F 1 "1N4148" H 6850 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6850 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6850 5350
 	1    0    0    -1  
 $EndComp
@@ -1000,6 +1042,7 @@ F 0 "D41" H 7400 5567 50  0000 C CNN
 F 1 "1N4148" H 7400 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7400 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7400 5350
 	1    0    0    -1  
 $EndComp
@@ -1011,6 +1054,7 @@ F 0 "D42" H 7950 5567 50  0000 C CNN
 F 1 "1N4148" H 7950 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7950 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7950 5350
 	1    0    0    -1  
 $EndComp
@@ -1022,6 +1066,7 @@ F 0 "D43" H 8500 5567 50  0000 C CNN
 F 1 "1N4148" H 8500 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 8500 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    8500 5350
 	1    0    0    -1  
 $EndComp
@@ -1033,6 +1078,7 @@ F 0 "D44" H 9050 5567 50  0000 C CNN
 F 1 "1N4148" H 9050 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9050 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9050 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9050 5350
 	1    0    0    -1  
 $EndComp
@@ -1044,6 +1090,7 @@ F 0 "D45" H 9600 5567 50  0000 C CNN
 F 1 "1N4148" H 9600 5476 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9600 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 5350 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9600 5350
 	1    0    0    -1  
 $EndComp
@@ -1187,6 +1234,7 @@ F 0 "D48" H 3000 6117 50  0000 C CNN
 F 1 "1N4148" H 3000 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3000 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3000 5900
 	1    0    0    -1  
 $EndComp
@@ -1198,6 +1246,7 @@ F 0 "D49" H 3550 6117 50  0000 C CNN
 F 1 "1N4148" H 3550 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3550 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3550 5900
 	1    0    0    -1  
 $EndComp
@@ -1209,6 +1258,7 @@ F 0 "D50" H 4100 6117 50  0000 C CNN
 F 1 "1N4148" H 4100 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4100 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4100 5900
 	1    0    0    -1  
 $EndComp
@@ -1220,6 +1270,7 @@ F 0 "D51" H 4650 6117 50  0000 C CNN
 F 1 "1N4148" H 4650 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4650 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4650 5900
 	1    0    0    -1  
 $EndComp
@@ -1231,6 +1282,7 @@ F 0 "D52" H 5200 6117 50  0000 C CNN
 F 1 "1N4148" H 5200 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5200 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5200 5900
 	1    0    0    -1  
 $EndComp
@@ -1242,6 +1294,7 @@ F 0 "D53" H 5750 6117 50  0000 C CNN
 F 1 "1N4148" H 5750 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5750 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5750 5900
 	1    0    0    -1  
 $EndComp
@@ -1253,6 +1306,7 @@ F 0 "D54" H 6300 6117 50  0000 C CNN
 F 1 "1N4148" H 6300 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6300 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6300 5900
 	1    0    0    -1  
 $EndComp
@@ -1264,6 +1318,7 @@ F 0 "D55" H 6850 6117 50  0000 C CNN
 F 1 "1N4148" H 6850 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6850 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6850 5900
 	1    0    0    -1  
 $EndComp
@@ -1275,6 +1330,7 @@ F 0 "D56" H 7400 6117 50  0000 C CNN
 F 1 "1N4148" H 7400 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7400 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7400 5900
 	1    0    0    -1  
 $EndComp
@@ -1286,6 +1342,7 @@ F 0 "D57" H 7950 6117 50  0000 C CNN
 F 1 "1N4148" H 7950 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7950 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7950 5900
 	1    0    0    -1  
 $EndComp
@@ -1297,6 +1354,7 @@ F 0 "D59" H 9050 6117 50  0000 C CNN
 F 1 "1N4148" H 9050 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9050 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9050 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9050 5900
 	1    0    0    -1  
 $EndComp
@@ -1308,6 +1366,7 @@ F 0 "D60" H 9600 6117 50  0000 C CNN
 F 1 "1N4148" H 9600 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9600 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9600 5900
 	1    0    0    -1  
 $EndComp
@@ -1319,6 +1378,7 @@ F 0 "D62" H 2450 6667 50  0000 C CNN
 F 1 "1N4148" H 2450 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 2450 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    2450 6450
 	1    0    0    -1  
 $EndComp
@@ -1341,6 +1401,7 @@ F 0 "D58" H 8500 6117 50  0000 C CNN
 F 1 "1N4148" H 8500 6026 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 8500 5725 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 5900 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    8500 5900
 	1    0    0    -1  
 $EndComp
@@ -1495,6 +1556,7 @@ F 0 "D63" H 3000 6667 50  0000 C CNN
 F 1 "1N4148" H 3000 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3000 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3000 6450
 	1    0    0    -1  
 $EndComp
@@ -1506,6 +1568,7 @@ F 0 "D64" H 3550 6667 50  0000 C CNN
 F 1 "1N4148" H 3550 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3550 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3550 6450
 	1    0    0    -1  
 $EndComp
@@ -1517,6 +1580,7 @@ F 0 "D65" H 4100 6667 50  0000 C CNN
 F 1 "1N4148" H 4100 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4100 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4100 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4100 6450
 	1    0    0    -1  
 $EndComp
@@ -1528,6 +1592,7 @@ F 0 "D66" H 4650 6667 50  0000 C CNN
 F 1 "1N4148" H 4650 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4650 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4650 6450
 	1    0    0    -1  
 $EndComp
@@ -1539,6 +1604,7 @@ F 0 "D67" H 5200 6667 50  0000 C CNN
 F 1 "1N4148" H 5200 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5200 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5200 6450
 	1    0    0    -1  
 $EndComp
@@ -1550,6 +1616,7 @@ F 0 "D68" H 5750 6667 50  0000 C CNN
 F 1 "1N4148" H 5750 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5750 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5750 6450
 	1    0    0    -1  
 $EndComp
@@ -1561,6 +1628,7 @@ F 0 "D69" H 6300 6667 50  0000 C CNN
 F 1 "1N4148" H 6300 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6300 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6300 6450
 	1    0    0    -1  
 $EndComp
@@ -1572,6 +1640,7 @@ F 0 "D70" H 6850 6667 50  0000 C CNN
 F 1 "1N4148" H 6850 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6850 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6850 6450
 	1    0    0    -1  
 $EndComp
@@ -1583,6 +1652,7 @@ F 0 "D71" H 7400 6667 50  0000 C CNN
 F 1 "1N4148" H 7400 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7400 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7400 6450
 	1    0    0    -1  
 $EndComp
@@ -1594,6 +1664,7 @@ F 0 "D72" H 7950 6667 50  0000 C CNN
 F 1 "1N4148" H 7950 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7950 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7950 6450
 	1    0    0    -1  
 $EndComp
@@ -1605,6 +1676,7 @@ F 0 "D73" H 9050 6667 50  0000 C CNN
 F 1 "1N4148" H 9050 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9050 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9050 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9050 6450
 	1    0    0    -1  
 $EndComp
@@ -1616,6 +1688,7 @@ F 0 "D74" H 9600 6667 50  0000 C CNN
 F 1 "1N4148" H 9600 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9600 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9600 6450
 	1    0    0    -1  
 $EndComp
@@ -1748,6 +1821,7 @@ F 0 "D78" H 3000 7217 50  0000 C CNN
 F 1 "1N4148" H 3000 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3000 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3000 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3000 7000
 	1    0    0    -1  
 $EndComp
@@ -1759,6 +1833,7 @@ F 0 "D79" H 3550 7217 50  0000 C CNN
 F 1 "1N4148" H 3550 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3550 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3550 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3550 7000
 	1    0    0    -1  
 $EndComp
@@ -1770,6 +1845,7 @@ F 0 "D80" H 4650 7217 50  0000 C CNN
 F 1 "1N4148" H 4650 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 4650 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4650 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    4650 7000
 	1    0    0    -1  
 $EndComp
@@ -1781,6 +1857,7 @@ F 0 "D81" H 5200 7217 50  0000 C CNN
 F 1 "1N4148" H 5200 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5200 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5200 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5200 7000
 	1    0    0    -1  
 $EndComp
@@ -1792,6 +1869,7 @@ F 0 "D82" H 5750 7217 50  0000 C CNN
 F 1 "1N4148" H 5750 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 5750 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5750 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    5750 7000
 	1    0    0    -1  
 $EndComp
@@ -1803,6 +1881,7 @@ F 0 "D83" H 6300 7217 50  0000 C CNN
 F 1 "1N4148" H 6300 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6300 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6300 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6300 7000
 	1    0    0    -1  
 $EndComp
@@ -1814,6 +1893,7 @@ F 0 "D84" H 6850 7217 50  0000 C CNN
 F 1 "1N4148" H 6850 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 6850 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6850 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    6850 7000
 	1    0    0    -1  
 $EndComp
@@ -1825,6 +1905,7 @@ F 0 "D85" H 7400 7217 50  0000 C CNN
 F 1 "1N4148" H 7400 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7400 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7400 7000
 	1    0    0    -1  
 $EndComp
@@ -1836,6 +1917,7 @@ F 0 "D86" H 7950 7217 50  0000 C CNN
 F 1 "1N4148" H 7950 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 7950 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7950 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    7950 7000
 	1    0    0    -1  
 $EndComp
@@ -1847,6 +1929,7 @@ F 0 "D88" H 9050 7217 50  0000 C CNN
 F 1 "1N4148" H 9050 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9050 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9050 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9050 7000
 	1    0    0    -1  
 $EndComp
@@ -1858,6 +1941,7 @@ F 0 "D89" H 9600 7217 50  0000 C CNN
 F 1 "1N4148" H 9600 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9600 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9600 7000
 	1    0    0    -1  
 $EndComp
@@ -1869,6 +1953,7 @@ F 0 "D87" H 8500 7217 50  0000 C CNN
 F 1 "1N4148" H 8500 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 8500 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    8500 7000
 	1    0    0    -1  
 $EndComp
@@ -1891,6 +1976,7 @@ F 0 "D77" H 2450 7217 50  0000 C CNN
 F 1 "1N4148" H 2450 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 2450 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2450 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    2450 7000
 	1    0    0    -1  
 $EndComp
@@ -1913,6 +1999,7 @@ F 0 "D76" H 1900 7217 50  0000 C CNN
 F 1 "1N4148" H 1900 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1900 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1900 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1900 7000
 	1    0    0    -1  
 $EndComp
@@ -1935,6 +2022,7 @@ F 0 "D75" H 1350 7217 50  0000 C CNN
 F 1 "1N4148" H 1350 7126 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1350 6825 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 7000 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1350 7000
 	1    0    0    -1  
 $EndComp
@@ -1957,6 +2045,7 @@ F 0 "D61" H 1350 6667 50  0000 C CNN
 F 1 "1N4148" H 1350 6576 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 1350 6275 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 1350 6450 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    1350 6450
 	1    0    0    -1  
 $EndComp
@@ -2001,6 +2090,7 @@ F 0 "D91" H 9050 7767 50  0000 C CNN
 F 1 "1N4148" H 9050 7676 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9050 7375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9050 7550 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9050 7550
 	1    0    0    -1  
 $EndComp
@@ -2012,6 +2102,7 @@ F 0 "D92" H 9600 7767 50  0000 C CNN
 F 1 "1N4148" H 9600 7676 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 9600 7375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9600 7550 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    9600 7550
 	1    0    0    -1  
 $EndComp
@@ -2023,6 +2114,7 @@ F 0 "D90" H 8500 7767 50  0000 C CNN
 F 1 "1N4148" H 8500 7676 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 8500 7375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 7550 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    8500 7550
 	1    0    0    -1  
 $EndComp
@@ -2838,6 +2930,7 @@ F 0 "D93" H 3300 1383 50  0000 C CNN
 F 1 "1N4148" H 3300 1474 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-123" H 3300 1425 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3300 1600 50  0001 C CNN
+F 4 "C81598" H 3300 1600 50  0001 C CNN "LCSC"
 	1    3300 1600
 	-1   0    0    1   
 $EndComp
@@ -2908,23 +3001,12 @@ Wire Wire Line
 $Comp
 L proton_c:proton_c U1
 U 1 1 614741DF
-P 13250 2250
-F 0 "U1" H 13225 727 50  0000 C CNN
-F 1 "proton_c" H 13225 636 50  0000 C CNN
-F 2 "proton_c:proton_c" H 13100 2250 50  0001 C CNN
-F 3 "" H 13100 2250 50  0001 C CNN
-	1    13250 2250
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+3.3V #PWR0102
-U 1 1 61AD8F09
-P 15050 1550
-F 0 "#PWR0102" H 15050 1400 50  0001 C CNN
-F 1 "+3.3V" H 15065 1723 50  0000 C CNN
-F 2 "" H 15050 1550 50  0001 C CNN
-F 3 "" H 15050 1550 50  0001 C CNN
-	1    15050 1550
+P 11850 2250
+F 0 "U1" H 11825 727 50  0000 C CNN
+F 1 "proton_c" H 11825 636 50  0000 C CNN
+F 2 "proton_c:proton_c" H 11700 2250 50  0001 C CNN
+F 3 "" H 11700 2250 50  0001 C CNN
+	1    11850 2250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -3040,12 +3122,12 @@ $EndComp
 $Comp
 L power:+3.3V #PWR01
 U 1 1 61517FDC
-P 10650 6600
-F 0 "#PWR01" H 10650 6450 50  0001 C CNN
-F 1 "+3.3V" H 10665 6773 50  0000 C CNN
-F 2 "" H 10650 6600 50  0001 C CNN
-F 3 "" H 10650 6600 50  0001 C CNN
-	1    10650 6600
+P 10650 6550
+F 0 "#PWR01" H 10650 6400 50  0001 C CNN
+F 1 "+3.3V" H 10665 6723 50  0000 C CNN
+F 2 "" H 10650 6550 50  0001 C CNN
+F 3 "" H 10650 6550 50  0001 C CNN
+	1    10650 6550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3169,7 +3251,7 @@ Wire Wire Line
 Wire Wire Line
 	12000 5150 12000 5400
 Wire Wire Line
-	10750 5150 10750 6600
+	10750 5150 10750 6300
 Wire Wire Line
 	11300 5150 11300 5300
 Connection ~ 11300 5150
@@ -3218,301 +3300,450 @@ F 4 "C1525" H 10650 6900 50  0001 C CNN "LCSC"
 $EndComp
 Wire Wire Line
 	10650 6600 10650 6750
-Connection ~ 10650 6600
 Wire Wire Line
 	10650 7050 10650 7300
 Connection ~ 10650 7300
 $Comp
 L Connector:Conn_01x04_Male J1
 U 1 1 61A818CE
-P 2850 9200
-F 0 "J1" H 2958 9481 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 2958 9390 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 2850 9200 50  0001 C CNN
-F 3 "~" H 2850 9200 50  0001 C CNN
-	1    2850 9200
+P 1550 7850
+F 0 "J1" H 1658 8131 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 1658 8040 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal" H 1550 7850 50  0001 C CNN
+F 3 "~" H 1550 7850 50  0001 C CNN
+	1    1550 7850
 	1    0    0    -1  
 $EndComp
-Text GLabel 3600 9450 3    50   Input ~ 0
+Text GLabel 2300 8100 3    50   Input ~ 0
 SCL
-Text GLabel 3500 9450 3    50   Input ~ 0
+Text GLabel 2200 8100 3    50   Input ~ 0
 SDA
 $Comp
 L power:GND #PWR0101
 U 1 1 61A85F82
-P 3800 9450
-F 0 "#PWR0101" H 3800 9200 50  0001 C CNN
-F 1 "GND" H 3805 9277 50  0000 C CNN
-F 2 "" H 3800 9450 50  0001 C CNN
-F 3 "" H 3800 9450 50  0001 C CNN
-	1    3800 9450
+P 2500 8100
+F 0 "#PWR0101" H 2500 7850 50  0001 C CNN
+F 1 "GND" H 2505 7927 50  0000 C CNN
+F 2 "" H 2500 8100 50  0001 C CNN
+F 3 "" H 2500 8100 50  0001 C CNN
+	1    2500 8100
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+3.3V #PWR0103
 U 1 1 61AA6C41
-P 3700 8950
-F 0 "#PWR0103" H 3700 8800 50  0001 C CNN
-F 1 "+3.3V" H 3715 9123 50  0000 C CNN
-F 2 "" H 3700 8950 50  0001 C CNN
-F 3 "" H 3700 8950 50  0001 C CNN
-	1    3700 8950
+P 2400 7600
+F 0 "#PWR0103" H 2400 7450 50  0001 C CNN
+F 1 "+3.3V" H 2415 7773 50  0000 C CNN
+F 2 "" H 2400 7600 50  0001 C CNN
+F 3 "" H 2400 7600 50  0001 C CNN
+	1    2400 7600
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector:Conn_01x04_Male J2
 U 1 1 61B0DBF7
-P 4400 9300
-F 0 "J2" H 4508 9581 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 4508 9490 50  0000 C CNN
-F 2 "my_lib:MKI2C-2V" H 4400 9300 50  0001 C CNN
-F 3 "~" H 4400 9300 50  0001 C CNN
-	1    4400 9300
+P 3100 7950
+F 0 "J2" H 3208 8231 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 3208 8140 50  0000 C CNN
+F 2 "my_lib:MKI2C-2V" H 3100 7950 50  0001 C CNN
+F 3 "~" H 3100 7950 50  0001 C CNN
+	1    3100 7950
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	3700 8950 3700 9200
+	2400 7600 2400 7850
 Wire Wire Line
-	3700 9200 3050 9200
+	2400 7850 1750 7850
 Wire Wire Line
-	3050 9100 3800 9100
+	1750 7750 2500 7750
 Wire Wire Line
-	3800 9100 3800 9450
+	2500 7750 2500 8100
 Wire Wire Line
-	3600 9450 3600 9300
+	2300 8100 2300 7950
 Wire Wire Line
-	3600 9300 3050 9300
+	2300 7950 1750 7950
 Wire Wire Line
-	3050 9400 3500 9400
+	1750 8050 2200 8050
 Wire Wire Line
-	3500 9400 3500 9450
+	2200 8050 2200 8100
 Wire Wire Line
-	3700 9200 3900 9200
+	2400 7850 2600 7850
 Wire Wire Line
-	3900 9200 3900 9100
+	2600 7850 2600 7750
 Wire Wire Line
-	3900 9100 4200 9100
-Connection ~ 3700 9200
+	2600 7750 2900 7750
+Connection ~ 2400 7850
 Wire Wire Line
-	3600 9300 3950 9300
+	2300 7950 2650 7950
 Wire Wire Line
-	3950 9300 3950 9200
+	2650 7950 2650 7850
 Wire Wire Line
-	3950 9200 4200 9200
-Connection ~ 3600 9300
+	2650 7850 2900 7850
+Connection ~ 2300 7950
 Wire Wire Line
-	3500 9400 4000 9400
+	2200 8050 2700 8050
 Wire Wire Line
-	4000 9400 4000 9300
+	2700 8050 2700 7950
 Wire Wire Line
-	4000 9300 4200 9300
-Connection ~ 3500 9400
+	2700 7950 2900 7950
+Connection ~ 2200 8050
 Wire Wire Line
-	3800 9450 4200 9450
+	2500 8100 2900 8100
 Wire Wire Line
-	4200 9450 4200 9400
-Connection ~ 3800 9450
+	2900 8100 2900 8050
+Connection ~ 2500 8100
+Text GLabel 12950 3550 2    50   Input ~ 0
+Row6
+Text GLabel 12950 3450 2    50   Input ~ 0
+Row5
+Text GLabel 12950 3350 2    50   Input ~ 0
+Row4
+Text GLabel 12950 3250 2    50   Input ~ 0
+Row3
+Text GLabel 12950 3150 2    50   Input ~ 0
+Row2
+Text GLabel 10700 3650 0    50   Input ~ 0
+Row1
+Text GLabel 10700 3550 0    50   Input ~ 0
+Row0
 Wire Wire Line
-	14250 1550 15050 1550
-Text GLabel 14350 3550 2    50   Input ~ 0
-Col6
-Text GLabel 14350 3450 2    50   Input ~ 0
-Col5
-Text GLabel 14350 3350 2    50   Input ~ 0
-Col4
-Text GLabel 14350 3250 2    50   Input ~ 0
-Col3
-Text GLabel 14350 3150 2    50   Input ~ 0
-Col2
-Text GLabel 12100 3650 0    50   Input ~ 0
-Col1
-Text GLabel 12100 3550 0    50   Input ~ 0
-Col0
+	10700 3550 10800 3550
 Wire Wire Line
-	12100 3550 12200 3550
+	10800 3650 10700 3650
 Wire Wire Line
-	12200 3650 12100 3650
+	12850 3550 12950 3550
 Wire Wire Line
-	14250 3550 14350 3550
+	12950 3450 12850 3450
 Wire Wire Line
-	14350 3450 14250 3450
+	12850 3350 12950 3350
 Wire Wire Line
-	14250 3350 14350 3350
+	12950 3250 12850 3250
 Wire Wire Line
-	14350 3250 14250 3250
-Wire Wire Line
-	14250 3150 14350 3150
-Text GLabel 12100 3450 0    50   Input ~ 0
+	12850 3150 12950 3150
+Text GLabel 10700 3450 0    50   Input ~ 0
 X1
-Text GLabel 12100 3350 0    50   Input ~ 0
+Text GLabel 10700 3350 0    50   Input ~ 0
 Y1
-Text GLabel 12100 1650 0    50   BiDi ~ 0
+Text GLabel 10700 1650 0    50   BiDi ~ 0
 SDA
-Text GLabel 12100 1750 0    50   Output ~ 0
+Text GLabel 10700 1750 0    50   Output ~ 0
 SCL
-Text GLabel 14350 2350 2    50   Input ~ 0
+Text GLabel 12950 2350 2    50   Input ~ 0
 J_EN
-Text GLabel 12100 1250 0    50   Input ~ 0
+Text GLabel 10700 1250 0    50   Input ~ 0
 TX
-Text GLabel 12100 1350 0    50   Output ~ 0
+Text GLabel 10700 1350 0    50   Output ~ 0
 RX
-Text GLabel 14350 2250 2    50   Output ~ 0
+Text GLabel 12950 2250 2    50   Output ~ 0
 MOSI
-Text GLabel 14350 2150 2    50   Input ~ 0
+Text GLabel 12950 2150 2    50   Input ~ 0
 MISO
-Text GLabel 14350 2050 2    50   Output ~ 0
+Text GLabel 12950 2050 2    50   Output ~ 0
 SCLK
-Text GLabel 12100 2350 0    50   Input ~ 0
+Text GLabel 10700 2350 0    50   Input ~ 0
 A1
-Text GLabel 12100 2250 0    50   Input ~ 0
+Text GLabel 10700 2250 0    50   Input ~ 0
 B1
-Text GLabel 12100 2150 0    50   Input ~ 0
+Text GLabel 10700 2150 0    50   Input ~ 0
 A2
-Text GLabel 12100 2050 0    50   Input ~ 0
+Text GLabel 10700 2050 0    50   Input ~ 0
 B2
-Text GLabel 12100 1950 0    50   Input ~ 0
+Text GLabel 10700 1950 0    50   Input ~ 0
 A3
-Text GLabel 12100 1850 0    50   Input ~ 0
+Text GLabel 10700 1850 0    50   Input ~ 0
 B3
 Wire Wire Line
-	14250 2350 14350 2350
+	12850 2350 12950 2350
 Wire Wire Line
-	14350 2250 14250 2250
+	12950 2250 12850 2250
 Wire Wire Line
-	14250 2150 14350 2150
+	12850 2150 12950 2150
 Wire Wire Line
-	14350 2050 14250 2050
+	12950 2050 12850 2050
 Wire Wire Line
-	12100 1650 12200 1650
+	10700 1650 10800 1650
 Wire Wire Line
-	12200 1750 12100 1750
+	10800 1750 10700 1750
 Wire Wire Line
-	12100 1850 12200 1850
+	10700 1850 10800 1850
 Wire Wire Line
-	12200 1950 12100 1950
+	10800 1950 10700 1950
 Wire Wire Line
-	12100 2050 12200 2050
+	10700 2050 10800 2050
 Wire Wire Line
-	12200 2150 12100 2150
+	10800 2150 10700 2150
 Wire Wire Line
-	12100 2250 12200 2250
+	10700 2250 10800 2250
 Wire Wire Line
-	12200 2350 12100 2350
+	10800 2350 10700 2350
 Wire Wire Line
-	12100 3350 12200 3350
+	10700 3350 10800 3350
 Wire Wire Line
-	12200 3450 12100 3450
+	10800 3450 10700 3450
 Wire Wire Line
-	12100 1350 12200 1350
+	10700 1350 10800 1350
 Wire Wire Line
-	12200 1250 12100 1250
+	10800 1250 10700 1250
 $Comp
 L power:GND #PWR0104
 U 1 1 622BCA35
-P 11750 1450
-F 0 "#PWR0104" H 11750 1200 50  0001 C CNN
-F 1 "GND" H 11755 1277 50  0000 C CNN
-F 2 "" H 11750 1450 50  0001 C CNN
-F 3 "" H 11750 1450 50  0001 C CNN
-	1    11750 1450
+P 10350 1450
+F 0 "#PWR0104" H 10350 1200 50  0001 C CNN
+F 1 "GND" H 10355 1277 50  0000 C CNN
+F 2 "" H 10350 1450 50  0001 C CNN
+F 3 "" H 10350 1450 50  0001 C CNN
+	1    10350 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0105
 U 1 1 622BEBE2
-P 14800 1300
-F 0 "#PWR0105" H 14800 1050 50  0001 C CNN
-F 1 "GND" H 14805 1127 50  0000 C CNN
-F 2 "" H 14800 1300 50  0001 C CNN
-F 3 "" H 14800 1300 50  0001 C CNN
-	1    14800 1300
+P 13400 1300
+F 0 "#PWR0105" H 13400 1050 50  0001 C CNN
+F 1 "GND" H 13405 1127 50  0000 C CNN
+F 2 "" H 13400 1300 50  0001 C CNN
+F 3 "" H 13400 1300 50  0001 C CNN
+	1    13400 1300
 	1    0    0    -1  
 $EndComp
-Text GLabel 14350 1450 2    50   Input ~ 0
+Text GLabel 12950 1450 2    50   Input ~ 0
 DFU
-Text GLabel 14350 3650 2    50   Input ~ 0
+Text GLabel 12950 3650 2    50   Input ~ 0
 RST
 Wire Wire Line
-	14250 1350 14700 1350
+	12850 1350 13300 1350
 Wire Wire Line
-	14700 1350 14700 1300
+	13300 1350 13300 1300
 Wire Wire Line
-	14700 1300 14800 1300
+	13300 1300 13400 1300
 Wire Wire Line
-	14250 1450 14350 1450
+	12850 1450 12950 1450
 Wire Wire Line
-	14250 3650 14350 3650
+	12850 3650 12950 3650
 Wire Wire Line
-	12200 1550 12200 1450
+	10800 1550 10800 1450
 Wire Wire Line
-	12200 1450 11750 1450
-Connection ~ 12200 1450
+	10800 1450 10350 1450
+Connection ~ 10800 1450
 Wire Wire Line
-	15650 2700 15800 2700
+	14250 2700 14400 2700
 Wire Wire Line
-	15800 2700 15800 3300
+	14400 2700 14400 3300
 Wire Wire Line
-	15800 3300 15800 3650
-Connection ~ 15800 3300
+	14400 3300 14400 3650
+Connection ~ 14400 3300
 Wire Wire Line
-	15650 3300 15800 3300
+	14250 3300 14400 3300
 $Comp
 L dk_Tactile-Switches:1825910-6 S2
 U 1 1 626286B6
-P 15450 3400
-F 0 "S2" H 15450 3747 60  0000 C CNN
-F 1 "1825910-6" H 15450 3641 60  0000 C CNN
-F 2 "digikey-footprints:Switch_Tactile_THT_6x6mm" H 15650 3600 60  0001 L CNN
-F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 15650 3700 60  0001 L CNN
-F 4 "450-1650-ND" H 15650 3800 60  0001 L CNN "Digi-Key_PN"
-F 5 "1825910-6" H 15650 3900 60  0001 L CNN "MPN"
-F 6 "Switches" H 15650 4000 60  0001 L CNN "Category"
-F 7 "Tactile Switches" H 15650 4100 60  0001 L CNN "Family"
-F 8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 15650 4200 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536" H 15650 4300 60  0001 L CNN "DK_Detail_Page"
-F 10 "SWITCH TACTILE SPST-NO 0.05A 24V" H 15650 4400 60  0001 L CNN "Description"
-F 11 "TE Connectivity ALCOSWITCH Switches" H 15650 4500 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 15650 4600 60  0001 L CNN "Status"
-	1    15450 3400
+P 14050 3400
+F 0 "S2" H 14050 3747 60  0000 C CNN
+F 1 "1825910-6" H 14050 3641 60  0000 C CNN
+F 2 "digikey-footprints:Switch_Tactile_THT_6x6mm" H 14250 3600 60  0001 L CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 14250 3700 60  0001 L CNN
+F 4 "450-1650-ND" H 14250 3800 60  0001 L CNN "Digi-Key_PN"
+F 5 "1825910-6" H 14250 3900 60  0001 L CNN "MPN"
+F 6 "Switches" H 14250 4000 60  0001 L CNN "Category"
+F 7 "Tactile Switches" H 14250 4100 60  0001 L CNN "Family"
+F 8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 14250 4200 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536" H 14250 4300 60  0001 L CNN "DK_Detail_Page"
+F 10 "SWITCH TACTILE SPST-NO 0.05A 24V" H 14250 4400 60  0001 L CNN "Description"
+F 11 "TE Connectivity ALCOSWITCH Switches" H 14250 4500 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 14250 4600 60  0001 L CNN "Status"
+	1    14050 3400
 	1    0    0    -1  
 $EndComp
 $Comp
 L dk_Tactile-Switches:1825910-6 S1
 U 1 1 62581B7F
-P 15450 2800
-F 0 "S1" H 15450 3147 60  0000 C CNN
-F 1 "1825910-6" H 15450 3041 60  0000 C CNN
-F 2 "digikey-footprints:Switch_Tactile_THT_6x6mm" H 15650 3000 60  0001 L CNN
-F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 15650 3100 60  0001 L CNN
-F 4 "450-1650-ND" H 15650 3200 60  0001 L CNN "Digi-Key_PN"
-F 5 "1825910-6" H 15650 3300 60  0001 L CNN "MPN"
-F 6 "Switches" H 15650 3400 60  0001 L CNN "Category"
-F 7 "Tactile Switches" H 15650 3500 60  0001 L CNN "Family"
-F 8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 15650 3600 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536" H 15650 3700 60  0001 L CNN "DK_Detail_Page"
-F 10 "SWITCH TACTILE SPST-NO 0.05A 24V" H 15650 3800 60  0001 L CNN "Description"
-F 11 "TE Connectivity ALCOSWITCH Switches" H 15650 3900 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 15650 4000 60  0001 L CNN "Status"
-	1    15450 2800
+P 14050 2800
+F 0 "S1" H 14050 3147 60  0000 C CNN
+F 1 "1825910-6" H 14050 3041 60  0000 C CNN
+F 2 "digikey-footprints:Switch_Tactile_THT_6x6mm" H 14250 3000 60  0001 L CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 14250 3100 60  0001 L CNN
+F 4 "450-1650-ND" H 14250 3200 60  0001 L CNN "Digi-Key_PN"
+F 5 "1825910-6" H 14250 3300 60  0001 L CNN "MPN"
+F 6 "Switches" H 14250 3400 60  0001 L CNN "Category"
+F 7 "Tactile Switches" H 14250 3500 60  0001 L CNN "Family"
+F 8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" H 14250 3600 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536" H 14250 3700 60  0001 L CNN "DK_Detail_Page"
+F 10 "SWITCH TACTILE SPST-NO 0.05A 24V" H 14250 3800 60  0001 L CNN "Description"
+F 11 "TE Connectivity ALCOSWITCH Switches" H 14250 3900 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 14250 4000 60  0001 L CNN "Status"
+	1    14050 2800
 	1    0    0    -1  
 $EndComp
-Text GLabel 15150 2700 0    50   Input ~ 0
+Text GLabel 13750 2700 0    50   Input ~ 0
 DFU
 Wire Wire Line
-	15150 2700 15250 2700
+	13750 2700 13850 2700
 Wire Wire Line
-	15150 3300 15250 3300
-Text GLabel 15150 3300 0    50   Input ~ 0
+	13750 3300 13850 3300
+Text GLabel 13750 3300 0    50   Input ~ 0
 RST
 $Comp
 L power:GND #PWR0106
 U 1 1 624351E2
-P 15800 3650
-F 0 "#PWR0106" H 15800 3400 50  0001 C CNN
-F 1 "GND" H 15805 3477 50  0000 C CNN
-F 2 "" H 15800 3650 50  0001 C CNN
-F 3 "" H 15800 3650 50  0001 C CNN
-	1    15800 3650
+P 14400 3650
+F 0 "#PWR0106" H 14400 3400 50  0001 C CNN
+F 1 "GND" H 14405 3477 50  0000 C CNN
+F 2 "" H 14400 3650 50  0001 C CNN
+F 3 "" H 14400 3650 50  0001 C CNN
+	1    14400 3650
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:R R8
+U 1 1 612B7EE2
+P 10950 6400
+F 0 "R8" V 10743 6400 50  0000 C CNN
+F 1 "10K" V 10834 6400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 10880 6400 50  0001 C CNN
+F 3 "~" H 10950 6400 50  0001 C CNN
+F 4 "C25744" V 10950 6400 50  0001 C CNN "LCSC"
+	1    10950 6400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 612E124E
+P 10950 6300
+F 0 "R7" V 10743 6300 50  0000 C CNN
+F 1 "10K" V 10834 6300 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 10880 6300 50  0001 C CNN
+F 3 "~" H 10950 6300 50  0001 C CNN
+F 4 "C25744" V 10950 6300 50  0001 C CNN "LCSC"
+	1    10950 6300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	10750 6300 10800 6300
+Connection ~ 10750 6300
+Wire Wire Line
+	10750 6300 10750 6400
+Wire Wire Line
+	10800 6400 10750 6400
+Connection ~ 10750 6400
+Wire Wire Line
+	10750 6400 10750 6600
+Wire Wire Line
+	11100 6400 11300 6400
+Wire Wire Line
+	11300 6300 11100 6300
+$Comp
+L Connector:Conn_01x02_Male J3
+U 1 1 613C0D6C
+P 9600 1000
+F 0 "J3" H 9708 1181 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 9708 1090 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 9600 1000 50  0001 C CNN
+F 3 "~" H 9600 1000 50  0001 C CNN
+	1    9600 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male J4
+U 1 1 613C36E4
+P 14650 1850
+F 0 "J4" H 14758 2331 50  0000 C CNN
+F 1 "Conn_01x07_Male" H 14758 2240 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Horizontal" H 14650 1850 50  0001 C CNN
+F 3 "~" H 14650 1850 50  0001 C CNN
+	1    14650 1850
+	1    0    0    -1  
+$EndComp
+Text GLabel 15000 2150 2    50   Output ~ 0
+MOSI
+Text GLabel 15000 2050 2    50   Input ~ 0
+MISO
+Text GLabel 15000 1950 2    50   Output ~ 0
+SCLK
+Text GLabel 12950 1950 2    50   BiDi ~ 0
+B8
+Text GLabel 12950 1850 2    50   BiDi ~ 0
+A0
+Text GLabel 12950 1750 2    50   BiDi ~ 0
+A1
+Text GLabel 12950 1650 2    50   BiDi ~ 0
+A2
+Text GLabel 15000 1850 2    50   BiDi ~ 0
+B8
+Text GLabel 15000 1750 2    50   BiDi ~ 0
+A0
+Text GLabel 15000 1650 2    50   BiDi ~ 0
+A1
+Text GLabel 15000 1550 2    50   BiDi ~ 0
+A2
+Wire Wire Line
+	14850 1550 15000 1550
+Wire Wire Line
+	15000 1650 14850 1650
+Wire Wire Line
+	14850 1750 15000 1750
+Wire Wire Line
+	15000 1850 14850 1850
+Wire Wire Line
+	14850 1950 15000 1950
+Wire Wire Line
+	15000 2050 14850 2050
+Wire Wire Line
+	14850 2150 15000 2150
+NoConn ~ 10800 2700
+NoConn ~ 10800 3150
+NoConn ~ 10800 3250
+NoConn ~ 12850 2550
+NoConn ~ 12850 2650
+NoConn ~ 12850 2750
+NoConn ~ 12850 2850
+NoConn ~ 12850 1250
+NoConn ~ 11450 950 
+NoConn ~ 11550 950 
+NoConn ~ 11650 950 
+NoConn ~ 12000 950 
+Wire Wire Line
+	12850 1650 12950 1650
+Wire Wire Line
+	12950 1750 12850 1750
+Wire Wire Line
+	12850 1850 12950 1850
+Wire Wire Line
+	12950 1950 12850 1950
+Text GLabel 9950 1000 2    50   Input ~ 0
+TX
+Text GLabel 9950 1100 2    50   Output ~ 0
+RX
+Wire Wire Line
+	9800 1000 9950 1000
+Wire Wire Line
+	9950 1100 9800 1100
+Wire Wire Line
+	13850 2700 13850 2900
+Connection ~ 13850 2700
+Wire Wire Line
+	14250 2900 14250 2700
+Connection ~ 14250 2700
+Wire Wire Line
+	14250 3500 14250 3300
+Connection ~ 14250 3300
+Wire Wire Line
+	13850 3300 13850 3500
+Connection ~ 13850 3300
+Wire Wire Line
+	12850 1550 13650 1550
+$Comp
+L power:+3.3V #PWR0102
+U 1 1 61AD8F09
+P 13650 1550
+F 0 "#PWR0102" H 13650 1400 50  0001 C CNN
+F 1 "+3.3V" H 13665 1723 50  0000 C CNN
+F 2 "" H 13650 1550 50  0001 C CNN
+F 3 "" H 13650 1550 50  0001 C CNN
+	1    13650 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10650 6600 10650 6550
+Connection ~ 10650 6600
 $EndSCHEMATC
