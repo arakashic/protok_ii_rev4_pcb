@@ -1,34 +1,47 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# 74xx_IEEE_74HC238
+# Connector_Conn_01x04_Male
 #
-DEF 74xx_IEEE_74HC238 U 0 30 Y Y 1 F N
-F0 "U" 150 350 50 H V C CNN
-F1 "74xx_IEEE_74HC238" 350 -650 50 H V C CNN
+DEF Connector_Conn_01x04_Male J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Connector_Conn_01x04_Male" 0 -300 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
 DRAW
-T 0 -150 140 60 0 0 0 & Normal 0 C C
-T 0 20 80 60 0 0 0 EN Normal 0 C C
-S -250 300 250 -600 0 1 0 N
-P 4 0 1 0 -50 300 -50 -150 -250 -150 -250 -150 N
-X VCC 16 0 300 0 D 50 50 0 0 W N
-X A0 1 -550 -350 300 R 50 50 1 1 I
-X Y5 10 550 -300 300 L 50 50 1 1 O
-X Y4 11 550 -200 300 L 50 50 1 1 O
-X Y3 12 550 -100 300 L 50 50 1 1 O
-X Y2 13 550 0 300 L 50 50 1 1 O
-X Y1 14 550 100 300 L 50 50 1 1 O
-X Y0 15 550 200 300 L 50 50 1 1 O
-X A1 2 -550 -450 300 R 50 50 1 1 I
-X A2 3 -550 -550 300 R 50 50 1 1 I
-X ~G2A 4 -550 200 300 R 50 50 1 1 I I
-X ~G2B 5 -550 50 300 R 50 50 1 1 I I
-X G1 6 -550 -100 300 R 50 50 1 1 I
-X Y7 7 550 -500 300 L 50 50 1 1 O
-X GND 8 0 -600 0 U 50 50 1 1 W N
-X Y6 9 550 -400 300 L 50 50 1 1 O
+S 34 -195 0 -205 1 1 6 F
+S 34 -95 0 -105 1 1 6 F
+S 34 5 0 -5 1 1 6 F
+S 34 105 0 95 1 1 6 F
+P 2 1 1 6 50 -200 34 -200 N
+P 2 1 1 6 50 -100 34 -100 N
+P 2 1 1 6 50 0 34 0 N
+P 2 1 1 6 50 100 34 100 N
+X Pin_1 1 200 100 150 L 50 50 1 1 P
+X Pin_2 2 200 0 150 L 50 50 1 1 P
+X Pin_3 3 200 -100 150 L 50 50 1 1 P
+X Pin_4 4 200 -200 150 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Device_C
+#
+DEF Device_C C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "Device_C" 25 -100 50 H V L CNN
+F2 "" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
@@ -49,6 +62,36 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Device_Rotary_Encoder
+#
+DEF Device_Rotary_Encoder SW 0 10 Y N 1 F N
+F0 "SW" 0 260 50 H V C CNN
+F1 "Device_Rotary_Encoder" 0 -260 50 H V C CNN
+F2 "" -150 160 50 H I C CNN
+F3 "" 0 260 50 H I C CNN
+$FPLIST
+ RotaryEncoder*
+$ENDFPLIST
+DRAW
+A -15 -2 108 -899 899 0 1 10 N -15 -110 -15 105
+C -150 0 10 0 1 0 F
+C -15 0 75 0 1 10 N
+S -200 200 200 -200 0 1 10 f
+P 2 0 1 10 -25 -70 -25 70 N
+P 2 0 1 10 -15 -70 -15 70 N
+P 2 0 1 10 -5 70 -5 -70 N
+P 3 0 1 0 -200 -100 -150 -100 -150 -80 N
+P 3 0 1 0 -200 100 -150 100 -150 80 N
+P 3 0 1 10 10 -120 -20 -110 5 -95 N
+P 3 0 1 10 10 115 -20 105 5 90 N
+P 4 0 1 0 -200 0 -150 0 -150 -40 -130 -80 N
+P 4 0 1 0 -170 0 -150 0 -150 40 -130 80 N
+X A A -300 100 100 R 50 50 1 1 P
+X B B -300 -100 100 R 50 50 1 1 P
+X C C -300 0 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Diode_1N4148
 #
 DEF Diode_1N4148 D 0 40 N N 1 F N
@@ -66,6 +109,49 @@ P 2 0 1 0 50 0 -50 0 N
 P 4 0 1 10 50 50 50 -50 -50 0 50 50 N
 X K 1 -150 0 100 R 50 50 1 1 P
 X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Interface_Expansion_MCP23017_SO
+#
+DEF Interface_Expansion_MCP23017_SO U 0 40 Y Y 1 F N
+F0 "U" -450 950 50 H V C CNN
+F1 "Interface_Expansion_MCP23017_SO" 0 0 50 H V C CNN
+F2 "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm" 200 -1000 50 H I L CNN
+F3 "" 200 -1100 50 H I L CNN
+$FPLIST
+ SOIC*7.5x17.9mm*P1.27mm*
+$ENDFPLIST
+DRAW
+S -500 900 500 -900 0 1 10 f
+X GPB0 1 700 800 200 L 50 50 1 1 B
+X VSS 10 0 -1100 200 U 50 50 1 1 W
+X NC 11 -500 600 200 R 50 50 1 1 N N
+X SCK 12 -700 700 200 R 50 50 1 1 I
+X SDA 13 -700 800 200 R 50 50 1 1 B
+X NC 14 -500 500 200 R 50 50 1 1 N N
+X A0 15 -700 -800 200 R 50 50 1 1 I
+X A1 16 -700 -700 200 R 50 50 1 1 I
+X A2 17 -700 -600 200 R 50 50 1 1 I
+X ~RESET~ 18 -700 -100 200 R 50 50 1 1 I
+X INTB 19 -700 200 200 R 50 50 1 1 T
+X GPB1 2 700 700 200 L 50 50 1 1 B
+X INTA 20 -700 100 200 R 50 50 1 1 T
+X GPA0 21 700 -100 200 L 50 50 1 1 B
+X GPA1 22 700 -200 200 L 50 50 1 1 B
+X GPA2 23 700 -300 200 L 50 50 1 1 B
+X GPA3 24 700 -400 200 L 50 50 1 1 B
+X GPA4 25 700 -500 200 L 50 50 1 1 B
+X GPA5 26 700 -600 200 L 50 50 1 1 B
+X GPA6 27 700 -700 200 L 50 50 1 1 B
+X GPA7 28 700 -800 200 L 50 50 1 1 B
+X GPB2 3 700 600 200 L 50 50 1 1 B
+X GPB3 4 700 500 200 L 50 50 1 1 B
+X GPB4 5 700 400 200 L 50 50 1 1 B
+X GPB5 6 700 300 200 L 50 50 1 1 B
+X GPB6 7 700 200 200 L 50 50 1 1 B
+X GPB7 8 700 100 200 L 50 50 1 1 B
+X VDD 9 0 1100 200 D 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
@@ -115,44 +201,21 @@ X MH2 MH2 1000 -400 200 L 50 50 0 0 P
 ENDDRAW
 ENDDEF
 #
-# SamacSys_Parts_EC21A1540401
+# dk_Tactile-Switches_1825910-6
 #
-DEF SamacSys_Parts_EC21A1540401 U 0 30 Y Y 1 F N
-F0 "U" 650 500 50 H V L CNN
-F1 "SamacSys_Parts_EC21A1540401" 650 400 50 H V L CNN
-F2 "EC21A1540401" 650 300 50 H I L CNN
-F3 "" 650 200 50 H I L CNN
-F4 "Encoders 5 Volts Through Hole" 650 100 50 H I L CNN "Description"
-F5 "9" 650 0 50 H I L CNN "Height"
-F6 "688-EC21A1540401" 650 -100 50 H I L CNN "Mouser Part Number"
-F7 "https://www.mouser.co.uk/ProductDetail/ALPS/EC21A1540401?qs=YMSFtX0bdJDqJ3PNi4kFEA%3D%3D" 650 -200 50 H I L CNN "Mouser Price/Stock"
-F8 "ALPS" 650 -300 50 H I L CNN "Manufacturer_Name"
-F9 "EC21A1540401" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
-DRAW
-P 5 0 1 6 200 300 600 300 600 -300 200 -300 200 300 N
-X 1 1 300 -500 200 U 50 50 0 0 P
-X 2 2 400 -500 200 U 50 50 0 0 P
-X 3 3 400 500 200 D 50 50 0 0 P
-X 4 4 0 0 200 R 50 50 0 0 P
-X 5 5 800 0 200 L 50 50 0 0 P
-ENDDRAW
-ENDDEF
-#
-# dk_Tactile-Switches_B3F-1000
-#
-DEF dk_Tactile-Switches_B3F-1000 S 0 40 Y Y 1 F N
-F0 "S" 0 200 60 H V C CNN
-F1 "dk_Tactile-Switches_B3F-1000" 0 -200 60 H V C CNN
-F2 "digikey-footprints:Switch_Tactile_THT_B3F-1xxx" 200 200 60 H I L CNN
-F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 300 60 H I L CNN
-F4 "SW400-ND" 200 400 60 H I L CNN "Digi-Key_PN"
-F5 "B3F-1000" 200 500 60 H I L CNN "MPN"
+DEF dk_Tactile-Switches_1825910-6 S 0 40 Y Y 1 F N
+F0 "S" 0 180 60 H V C CNN
+F1 "dk_Tactile-Switches_1825910-6" 5 -200 60 H V C CNN
+F2 "digikey-footprints:Switch_Tactile_THT_6x6mm" 200 200 60 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 300 60 H I L CNN
+F4 "450-1650-ND" 200 400 60 H I L CNN "Digi-Key_PN"
+F5 "1825910-6" 200 500 60 H I L CNN "MPN"
 F6 "Switches" 200 600 60 H I L CNN "Category"
 F7 "Tactile Switches" 200 700 60 H I L CNN "Family"
-F8 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 200 800 60 H I L CNN "DK_Datasheet_Link"
-F9 "/product-detail/en/omron-electronics-inc-emc-div/B3F-1000/SW400-ND/33150" 200 900 60 H I L CNN "DK_Detail_Page"
+F8 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English" 200 800 60 H I L CNN "DK_Datasheet_Link"
+F9 "/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536" 200 900 60 H I L CNN "DK_Detail_Page"
 F10 "SWITCH TACTILE SPST-NO 0.05A 24V" 200 1000 60 H I L CNN "Description"
-F11 "Omron Electronics Inc-EMC Div" 200 1100 60 H I L CNN "Manufacturer"
+F11 "TE Connectivity ALCOSWITCH Switches" 200 1100 60 H I L CNN "Manufacturer"
 F12 "Active" 200 1200 60 H I L CNN "Status"
 DRAW
 C -60 0 10 0 1 0 N
