@@ -1,0 +1,92 @@
+
+(module SOIC127P600X175-8N (layer F.Cu) (tedit 613D3B94)
+  (descr "")
+  (fp_text reference REF** (at -0.63083 -3.41447 0) (layer F.SilkS)
+    (effects (font (size 1.00130708661 1.00130708661) (thickness 0.15)))
+  )
+  (fp_text value SOIC127P600X175-8N (at 7.63232 3.51338 0) (layer F.Fab)
+    (effects (font (size 1.00096062992 1.00096062992) (thickness 0.15)))
+  )
+  (fp_line (start -1.95 2.45) (end -1.95 -2.45) (layer F.Fab) (width 0.127))
+  (fp_line (start 1.95 -2.45) (end 1.95 2.45) (layer F.Fab) (width 0.127))
+  (fp_line (start -1.4 2.45) (end -1.4 -2.45) (layer F.Fab) (width 0.127))
+  (fp_poly
+    (pts
+      (xy -2.80018 -2.45505)
+      (xy -2.30495 -2.45505)
+      (xy -2.30495 -1.35739)
+      (xy -2.80018 -1.35739)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.79655 -1.18505)
+      (xy -2.30495 -1.18505)
+      (xy -2.30495 -0.0849926)
+      (xy -2.79655 -0.0849926)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.79695 0.08495)
+      (xy -2.30495 0.08495)
+      (xy -2.30495 1.18581)
+      (xy -2.79695 1.18581)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -2.80021 1.35495)
+      (xy -2.30495 1.35495)
+      (xy -2.30495 2.4595)
+      (xy -2.80021 2.4595)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.30792 1.35495)
+      (xy 2.79515 1.35495)
+      (xy 2.79515 2.45822)
+      (xy 2.30792 2.45822)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.30654 0.08495)
+      (xy 2.79515 0.08495)
+      (xy 2.79515 1.18587)
+      (xy 2.30654 1.18587)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.30497 -1.18505)
+      (xy 2.79515 -1.18505)
+      (xy 2.79515 -0.0849508)
+      (xy 2.30497 -0.0849508)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 2.30797 -2.45505)
+      (xy 2.79515 -2.45505)
+      (xy 2.79515 -1.35673)
+      (xy 2.30797 -1.35673)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_line (start -1.95 -2.45) (end 1.95 -2.45) (layer F.SilkS) (width 0.127))
+  (fp_line (start -1.95 2.45) (end 1.95 2.45) (layer F.SilkS) (width 0.127))
+  (fp_line (start -3.75 -2.75) (end 3.75 -2.75) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 3.75 -2.75) (end 3.75 2.75) (layer F.CrtYd) (width 0.05))
+  (fp_line (start 3.75 2.75) (end -3.75 2.75) (layer F.CrtYd) (width 0.05))
+  (fp_line (start -3.75 2.75) (end -3.75 -2.75) (layer F.CrtYd) (width 0.05))
+  (fp_circle (center -3.5 -2.5) (end -3.373 -2.5) (layer F.SilkS) (width 0.0))
+  (pad 2 smd rect (at -2.7 -0.635) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+  (pad 7 smd rect (at 2.7 -0.635) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+  (pad 1 smd rect (at -2.7 -1.905) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+  (pad 3 smd rect (at -2.7 0.635) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+  (pad 4 smd rect (at -2.7 1.905) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+  (pad 8 smd rect (at 2.7 -1.905) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+  (pad 6 smd rect (at 2.7 0.635) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+  (pad 5 smd rect (at 2.7 1.905) (size 1.55 0.6) (layers F.Cu F.Mask F.Paste))
+)
