@@ -9,4 +9,5 @@
   (lib (name dk_Logic-Signal-Switches-Multiplexers-Decoders)(type Legacy)(uri ${KIPRJMOD}/digikey-kicad-library/digikey-symbols/dk_Logic-Signal-Switches-Multiplexers-Decoders.lib)(options "")(descr ""))
   (lib (name CD74HC238M)(type Legacy)(uri ${KIPRJMOD}/library/74HC238/CD74HC238M.lib)(options "")(descr ""))
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name AT24C256C-SSHL-B)(type Legacy)(uri ${KIPRJMOD}/library/AT24C256C-SSHL-B.lib)(options "")(descr ""))
 )
