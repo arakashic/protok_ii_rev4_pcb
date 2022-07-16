@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=protok_ii_rev3.net
+LastNetListRead=protok_ii_rev4.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
